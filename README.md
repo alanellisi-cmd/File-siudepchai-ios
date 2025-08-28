@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Hoàng Xuân Tú v1.2 | Crack</title>
+  <title>ios v1 | Crack</title>
   <style>
     body {
       margin: 0;
@@ -168,7 +168,7 @@
 
     <div class="footer">
       Nhấn vào chức năng hoặc kéo để chuyển đổi<br>
-      © 2025 Hoàng Xuân Tú | tiktok: @hoangxuantureal.
+      © 2025  siudepchai ios| tiktok: @shareflesiudeptraiios
 
 Lưu ý đã có fake lấy đi lừa anh em cẩn thận nhé
     </div>
